@@ -1,15 +1,17 @@
 # Resumé
 
-***[Deploy](https://zherar7ordoya.vercel.app/)***
+**_[Deploy](https://zherar7ordoya.vercel.app/)_**
 
 ---
 
-- [x] Otro cambio a introducir es que no usaré a Heroku como alojamiento.
+-   [x] Otro cambio a introducir es que no usaré a Heroku como alojamiento.
 
-- [ ] Usaré como base el esquema de
+-   [ ] No olvidar créditos.
+
+-   [ ] Usaré como base el esquema de
         [JSON Resume](https://jsonresume.org/schema/). Me ha gustado su idea de
         consumir una [API](https://zherar7ordoya.github.io/resume/index.json)
-        para generar una cartera (portfolio). Sin embargo, el esquema propuesto
+        para generar una cartera (portafolio). Sin embargo, el esquema propuesto
         tiene un par de faltantes que, en mi experiencia, no deberían estar
         ausentes (por ejemplo, los proyectos). De otro modo, me hubiera quedado
         con la propuesta así como está. De todas maneras, lo uso como guía
@@ -18,4 +20,12 @@
 
 ---
 
-                    ✨Made with🧡by Gerardo⭐Tordoya in🇦🇷
+## Créditos
+
+-   **Portfolio-Template:** A Portfolio/Resume website template for Programmers,
+    Geeks, Developers, Hackers etc. ➡️ By
+    [Prateek Mishra](https://github.com/0xPrateek/Portfolio-Template).
+
+---
+
+                    ✨ Made with 🧡 by Gerardo⭐Tordoya in 🇦🇷
