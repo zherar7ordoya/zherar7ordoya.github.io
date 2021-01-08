@@ -22,9 +22,10 @@
 
 ## Créditos
 
--   **Portfolio-Template:** A Portfolio/Resume website template for Programmers,
-    Geeks, Developers, Hackers etc. ➡️ By
-    [Prateek Mishra](https://github.com/0xPrateek/Portfolio-Template).
+-   **Portfolio-Template:** ➡️ [Prateek Mishra](https://github.com/0xPrateek/Portfolio-Template).
+- **Generador de Meta Tags:** ➡️ [miarroba](https://metatags.miarroba.com/)
+- **Simple Icons:** ➡️  [SimpleIcons.org](https://simpleicons.org/)
+- 
 
 ---
 
