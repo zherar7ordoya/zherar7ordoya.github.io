@@ -68,7 +68,6 @@ audio:not([controls]) {
 html {
     font-size: 100%; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
-    -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 /**
@@ -402,7 +401,6 @@ textarea {
     font-size: 100%; /* 1 */
     margin: 0; /* 2 */
     vertical-align: baseline; /* 3 */
-    *vertical-align: middle; /* 3 */
 }
 
 /**

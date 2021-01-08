@@ -25,7 +25,6 @@ html {
   height: 100%;
   font-size: 100%;
   overflow-y: scroll;
-  -webkit-text-size-adjust: 100%
 }
 
 /* Force scrollbar in non-IE and Remove iOS text size adjust without disabling user zoom */
@@ -43,7 +42,6 @@ body {
 /* Font-size percentage is based on 16px browser default size */
 body, button, input, select, textarea {
   font: 100% 'Lato', sans-serif;
-  *font-size: 1em;
   color: #555
 }
 
@@ -185,13 +183,11 @@ legend {
 
 button, input, select, textarea {
   vertical-align: baseline;
-  *vertical-align: middle
 }
 
 /* IE7 and older */
 button, input {
   line-height: normal;
-  *overflow: visible
 }
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
