@@ -22,7 +22,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues). You can also take a look at the [contributing guide](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/CONTRIBUTING.md).
+Feel free to check [issues page](https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues). You can also take a look at the [contributing guide](https://github.com/zherar7ordoya/zherar7ordoya.github.io/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
