@@ -2,11 +2,8 @@
 
 ![Image of Codercat](https://octodex.github.com/images/codercat.jpg)
 
-<figcaption align="center">
-Show me love 🤟 by hiring me!
-<br />
-(Or, at least, buy me a ☕ coffee).
-</figcaption>
+<p align="center"> Show me love 🤟 by hiring me! </p>
+<small> (Or, at least, buy me a ☕ coffee). </small>
 
 <hr />
 
