@@ -2,9 +2,9 @@
 
 ![Image of Codercat](https://octodex.github.com/images/codercat.jpg)
 
-<p align="center"> Show me love 🤟 by hiring me! </p>
-<small> (Or, at least, buy me a ☕ coffee). </small>
+<p align="center"><strong> Show me love 🤟 by hiring me! </strong></p>
+<p><small> (Or, at least, buy me a ☕ coffee). </small></p>
 
 <hr />
 
-Just kidding...🤣 I'm glad ✨ to have you 🙏 here!
+<h2 align="center"> Just kidding...🤣 I'm glad ✨ to have you 🙏 here! </h2>

@@ -14,7 +14,7 @@
 
 👤 **Gerardo Tordoya**
 
-* Website: [zherar7ordoya.github.io](htpps://zherar7ordoya.github.io)
+* Website: [@zherar7ordoya](htpps://zherar7ordoya.github.io)
 * Github: [@zherar7ordoya](https://github.com/zherar7ordoya)
 * LinkedIn: [@zherar7ordoya](https://linkedin.com/in/zherar7ordoya)
 
