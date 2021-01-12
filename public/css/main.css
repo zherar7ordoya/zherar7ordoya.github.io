@@ -25,7 +25,6 @@ html {
   height: 100%;
   font-size: 100%;
   overflow-y: scroll;
-  -webkit-text-size-adjust: 100%
 }
 
 /* Force scrollbar in non-IE and Remove iOS text size adjust without disabling user zoom */
@@ -43,7 +42,6 @@ body {
 /* Font-size percentage is based on 16px browser default size */
 body, button, input, select, textarea {
   font: 100% 'Lato', sans-serif;
-  *font-size: 1em;
   color: #555
 }
 
@@ -185,13 +183,11 @@ legend {
 
 button, input, select, textarea {
   vertical-align: baseline;
-  *vertical-align: middle
 }
 
 /* IE7 and older */
 button, input {
   line-height: normal;
-  *overflow: visible
 }
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
@@ -466,7 +462,7 @@ body {
 
 /* Backgrounds */
 .bg-1 {
-  background-image: url('../images/floor.jpg');
+  background-image: url('../images/humanity.jpg');
 }
 
 /* Header */
@@ -842,8 +838,9 @@ body {
   background-color: #ec971f;
 }
 
-/* Project */
-.project-section {
+/* *----------------------------------------------=> Certificados & Proyectos */
+.project-section,
+.certificate-section {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 1.5rem;
@@ -851,7 +848,8 @@ body {
   align-items: center;
 }
 
-.project-container {
+.project-container,
+.certificate-container {
   max-width: 240px;
   border-radius: 5px;
   background-color: #5cb85c;
@@ -860,12 +858,14 @@ body {
   box-shadow: 2px 2px 5px 3px #5cb85c27;
 }
 
-.project-img-container {
+.project-img-container,
+.certificate-img-container {
   width: 100%;
   border-radius: 5px 5px 0px 0px;
 }
 
-.project-img-container img {
+.project-img-container img,
+.certificate-img-container img {
   width: 100%;
   border-radius: 5px 5px 0px 0px;
   margin-bottom: 0px;
@@ -877,14 +877,27 @@ body {
   font-size: 1.2rem;
   font-weight: 600;
 }
-.project_details{
+
+.certificate-title {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+
+.project_details,
+.certificate-details {
   text-align: center;
   display: block;
   font-size: 2em;
   margin : 0;
   font-weight: bold;
 }
-input[type=text], .project_description, input[type=url] {
+
+input[type=text],
+.project_description,
+.certificate-description,
+input[type=url] {
   width: 85%;
   padding: 12px 20px;
   margin: 5px 26px;
@@ -893,12 +906,15 @@ input[type=text], .project_description, input[type=url] {
   box-sizing: border-box;
   font-size:16px;
 }
-.project_description{
+
+.project_description,
+.certificate-description {
   max-width: 85%;
 }
 
 /* Set a style for all buttons */
-.project_submit {
+.project_submit,
+.certificate-submit {
   background-color: #4CAF50;
   color: white;
   padding: 14px 20px;
@@ -908,7 +924,9 @@ input[type=text], .project_description, input[type=url] {
   width: 85%;
   font-size:20px;
 }
-.project_submit:hover {
+
+.project_submit:hover,
+.certificate_submit:hover {
     opacity: 0.8;
 }
 
@@ -918,6 +936,7 @@ input[type=text], .project_description, input[type=url] {
   margin: 12px 0 6px 0;
   position: relative;
 }
+
 .avatar {
     width: 175px;
 	  height:175px;
@@ -1080,11 +1099,13 @@ Change widths as necessary
     display: block;
   }
 
-  .project-section {
+  .project-section,
+  .certificate-section {
     grid-template-columns: auto;
   }
 
-  .project-container {
+  .project-container,
+  .certificate-container {
     max-width: 200px;
   }
 }
@@ -1262,7 +1283,8 @@ Change widths as necessary
   }
 }
 
-.project-div {
+.project-div,
+.certificate-div {
   background-color: #4AB478;
   text-align: center;
   padding: 10px;
