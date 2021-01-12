@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/graphs/commit-activity)
-[![License: MIT](https://img.shields.io/github/license/zherar7ordoya/Resumé)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/zherar7ordoya/zherar7ordoya.github.io)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE)
 
 > Currículo de Gerardo Tordoya enfocado especialmente en su cartera de Proyectos.
 
