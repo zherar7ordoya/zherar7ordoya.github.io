@@ -10,23 +10,11 @@
 
 ### ✨ [Demo](https://zherar7ordoya.vercel.app)
 
-## Install
-
-```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Gerardo Tordoya**
 
-* Website: zherar7ordoya.github.io
+* Website: [zherar7ordoya.github.io](htpps://zherar7ordoya.github.io)
 * Github: [@zherar7ordoya](https://github.com/zherar7ordoya)
 * LinkedIn: [@zherar7ordoya](https://linkedin.com/in/zherar7ordoya)
 
@@ -45,7 +33,7 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Gerardo Tordoya](https://github.com/zherar7ordoya).
 
-This project is [MIT](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/zherar7ordoya/zherar7ordoya.github.io/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
