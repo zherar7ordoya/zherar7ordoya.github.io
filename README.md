@@ -1,33 +1,25 @@
-<h1 align="center">Welcome to Resumé 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/zherar7ordoya/zherar7ordoyahub.io.git#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/zherar7ordoya/Resumé" />
-  </a>
-</p>
+# Welcome to Resumé 👋
+![Version](https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/zherar7ordoya/Resumé)](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE)
 
 > Currículo de Gerardo Tordoya enfocado especialmente en su cartera de Proyectos.
 
-### 🏠 [Homepage](zherar7ordoya.vercel.app)
+### 🏠 [Homepage](https://zherar7ordoya.github.io)
 
-### ✨ [Demo](zherar7ordoya.github.io)
+### ✨ [Demo](https://zherar7ordoya.vercel.app)
 
 ## Install
 
 ```sh
-yarn install
+npm install
 ```
 
 ## Run tests
 
 ```sh
-yarn run test
+npm run test
 ```
 
 ## Author
@@ -40,15 +32,19 @@ yarn run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues). You can also take a look at the [contributing guide](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page](https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues). You can also take a look at the [contributing guide](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
+
 ## 📝 License
 
-Copyright © 2021 [Gerardo Tordoya](https://github.com/zherar7ordoya).<br />
+Copyright © 2021 [Gerardo Tordoya](https://github.com/zherar7ordoya).
+
 This project is [MIT](https://github.com/zherar7ordoya/zherar7ordoyahub.io.git/blob/master/LICENSE) licensed.
 
 ***

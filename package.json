@@ -2,7 +2,7 @@
     "name": "zherar7ordoya.github.io",
     "version": "4.0.0",
     "description": "Currículo de Gerardo Tordoya enfocado especialmente en su cartera de Proyectos.",
-    "main": "index.js",
+    "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -27,5 +27,5 @@
     "bugs": {
         "url": "https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues"
     },
-    "homepage": "zherar7ordoya.github.io"
+    "homepage": "https://zherar7ordoya.github.io"
 }
