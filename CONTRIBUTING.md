@@ -3,7 +3,7 @@
 ![Image of Codercat](https://octodex.github.com/images/codercat.jpg)
 
 <p align="center"><strong> Show me love 🤟 by hiring me! </strong></p>
-<p><small> (Or, at least, buy me a ☕ coffee). </small></p>
+<p align="center"><small> (Or, at least, buy me a ☕ coffee). </small></p>
 
 <hr />
 
