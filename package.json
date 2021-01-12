@@ -1,20 +1,31 @@
 {
-  "name": "zherar7ordoya.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zherar7ordoya/zherar7ordoya.github.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues"
-  },
-  "homepage": "https://github.com/zherar7ordoya/zherar7ordoya.github.io#readme"
+    "name": "zherar7ordoya.github.io",
+    "version": "4.0.0",
+    "description": "Currículo de Gerardo Tordoya enfocado especialmente en su cartera de Proyectos.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zherar7ordoya/zherar7ordoya.github.io.git"
+    },
+    "keywords": [
+        "Gerardo Tordoya",
+        "Fullstack Developer",
+        "Full-Stack",
+        "Serverless Computing",
+        "Analista Programador",
+        "CV",
+        "Currículo",
+        "Curriculum Vitae",
+        "Portfolio",
+        "Cartera"
+    ],
+    "author": "Gerardo Tordoya",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zherar7ordoya/zherar7ordoya.github.io/issues"
+    },
+    "homepage": "zherar7ordoya.github.io"
 }
